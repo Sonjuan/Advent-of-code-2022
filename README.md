@@ -4,4 +4,4 @@
 https://adventofcode.com/
 
 
-solving AoC problem using python, c++, bash, etc language
+solving AoC problems using python, c++, bash, etc languages
